@@ -1,4 +1,4 @@
-f#### Render Blueprint specification: https://dashboard.render.com/blueprints ####
+#### Render Blueprint specification: https://dashboard.render.com/blueprints ####
 ## 👇 Preview environments: https://render.com/docs/preview-environments ###
 # previewsEnabled: true
 ## 👇 Automatically nuke the environment after X days of inactivity to reduce billing:
